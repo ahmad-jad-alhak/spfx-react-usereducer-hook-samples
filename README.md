@@ -31,8 +31,8 @@ This sample is optimally compatible with the following environment configuration
 
 ## Preview
 
-![Web Part Preview](assets/preview-01.png)
-![Web Part Preview](assets/preview-02.png)
+![Web Part Preview](src/webparts/reactUseReducerHookBasic/assets/preview_01.png)
+![Web Part Preview](src/webparts/reactUseReducerHookBasic/assets/preview_02.png)
 
 
 ## Solution
