@@ -29,6 +29,12 @@ This sample is optimally compatible with the following environment configuration
 
 ---
 
+## Preview
+
+![Web Part Preview](assets/preview-01.png)
+![Web Part Preview](assets/preview-02.png)
+
+
 ## Solution
 
 | Solution                  | Author(s)                      |
@@ -94,27 +100,6 @@ To configure the web part, you need to provide the following properties:
 
 ---
 
-## Preview
-
-### Web Part in Action
-
-![Web Part Preview](./assets/webpart-preview.png)
-
-### Loading State
-
-![Loading State](./assets/loading-state.png)
-
-### Error State
-
-![Error State](./assets/error-state.png)
-
-### No Items Found
-
-![No Items Found](./assets/no-items-found.png)
-
-> Notice that better pictures and documentation will increase the sample usage and the value you are providing for others. Thanks for your submissions in advance.
-
-> Share your web part with others through Microsoft 365 Patterns and Practices program to get visibility and exposure. More details on the community, open-source projects, and other activities from [Microsoft 365 Patterns and Practices](http://aka.ms/m365pnp).
 
 ## References
 
